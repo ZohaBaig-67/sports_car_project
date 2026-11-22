@@ -1,7 +1,6 @@
 # Sport Car Price Analysis
 
-**Live Streamlit app:** Add your deployed Streamlit URL here after deployment.
-
+**Live Streamlit app:** https://sportscarproject-2026.streamlit.app/
 ## Project overview
 An exploratory data analysis and interactive dashboard exploring sports-car manufacturers, specifications, acceleration, and listed prices.
 
